@@ -1,0 +1,25 @@
+{
+  "name": "sf-chain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-test": "nodemon dev-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gator-stat-5310/sf-chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gator-stat-5310/sf-chain/issues"
+  },
+  "homepage": "https://github.com/gator-stat-5310/sf-chain#readme",
+  "devDependencies": {
+    "node": "^15.10.0",
+    "nodeman": "^1.1.2"
+  }
+}
