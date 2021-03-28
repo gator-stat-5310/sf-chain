@@ -1,8 +1,3 @@
-```Test the Blockchain class:
-Create blockchain.test.js:
-
-```
-
 const Blockchain = require('./blockchain');
 const Block = require('./block');
 
@@ -22,7 +17,3 @@ describe('Blockchain', () => {
     expect(bc.chain[bc.chain.length-1].data).toEqual(data);
   });
 });
-
-```
-$ npm run test
-```
