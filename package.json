@@ -8,6 +8,7 @@
     "dev-test": "nodemon dev-test",
     "start": "node ./app",
     "dev": "nodemon ./app"
+    "ldap-test": "nodemon ./ldap"
   },
   "repository": {
     "type": "git",
